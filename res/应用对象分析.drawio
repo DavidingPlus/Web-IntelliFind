@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="5Gg63MfVXj2GSmFjZbde" name="第 1 页">
-        <mxGraphModel dx="613" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="496" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -27,15 +27,6 @@
                 </mxCell>
                 <mxCell id="9" value="查看检测结果" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
                     <mxGeometry x="400" y="175" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="10" value="下载到本地" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-                    <mxGeometry x="590" y="175" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9" target="10" edge="1">
-                    <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="520" y="210" as="sourcePoint"/>
-                        <mxPoint x="570" y="160" as="targetPoint"/>
-                    </mxGeometry>
                 </mxCell>
                 <mxCell id="13" value="算法处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="300" y="180" width="60" height="30" as="geometry"/>
